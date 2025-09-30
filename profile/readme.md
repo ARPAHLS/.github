@@ -8,6 +8,8 @@
 
 ARPA CORP.'s Hellenic Logical Systems (HLS) Division is a research and development entity dedicated to engineering the next logical layer of human-machine interaction. We operate at the intersection of seemingly disparate fields, Artificial Intelligence, Blockchain, Bioinformatics, and Neurotechnology, to build systems that are more than just tools. Our work is a synthesis, aimed at creating symbiotic frameworks where organic intuition and synthetic logic operate in seamless concert.
 
+![Redefining reality by creating it](https://raw.githubusercontent.com/ARPAHLS/.github/main/83462eee-c45f-4e85-bb85-63f067e2b501_thumbnail.png)
+
 We don't just build software. We architect protocols for a future where the distinction between biological and artificial cognition blurs.
 
 > ### **Mission**
