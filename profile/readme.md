@@ -22,10 +22,12 @@ We don't just build software; we architect protocols for a future where the dist
 
 Our research and development efforts are concentrated across several key domains:
 
-* **🧠 Artificial Intelligence & Machine Learning:** Development of novel logical systems, self-centered intelligence, and autonomous agents.
-* **🔗 Blockchain & Distributed Ledger Technology:** Engineering decentralized systems for data integrity, security, and audit trails.
-* **🧬 Bioinformatics & Neurotechnology:** Exploring the fundamental data structures of biology and consciousness to inform our system architecture.
-* **🛡️ Cybersecurity & Information Theory:** Implementing advanced security protocols, from malware classification to ensuring data provenance in high-stakes environments.
+| Icon | Discipline | Description |
+| :--- | :--- | :--- |
+| 🧠 | **Artificial Intelligence & Machine Learning** | Development of novel logical systems, self-centered intelligence, and autonomous agents. |
+| 🔗 | **Blockchain & Distributed Ledger Technology** | Engineering decentralized systems for data integrity, security, and audit trails. |
+| 🧬 | **Bioinformatics & Neurotechnology** | Exploring the fundamental data structures of biology and consciousness to inform our system architecture. |
+| 🛡️ | **Cybersecurity & Information Theory** | Implementing advanced security protocols, from malware classification to ensuring data provenance in high-stakes environments. |
 
 * Learn more at arpacorp.net
 
@@ -33,10 +35,12 @@ Our research and development efforts are concentrated across several key domains
 
 ### Key Projects
 
-* **[OPSIE](https://github.com/arpahls/opsie/):** OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction.
-* **[H3](https://github.com/arpahls/h3/):** Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics.
-* **[arpa.chat](https://arpa.chat):** Our public-facing platform for experimental AI agents. Currently in public beta.
-* **[iDataRoom (iDR)](https://github.com/arpahls/idr/):** Automating compliance with AI. 
+| Project | Description |
+| :--- | :--- |
+| **[OPSIE](https://github.com/arpahls/opsie/)** | OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction. |
+| **[H3](https://github.com/arpahls/h3/)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics. |
+| **[arpa.chat](https://arpa.chat)** | Our public-facing platform for experimental AI agents. Currently in public beta. |
+| **[iDataRoom (iDR)](https://github.com/arpahls/idr/)**| Automating compliance with AI. |
 
 ---
 
