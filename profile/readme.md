@@ -41,5 +41,5 @@ Our research and development efforts are concentrated across several key domains
 ### Connect with Us
 
 * **🌐 Official Website:** [arpacorp.net](https://arpacorp.net)
-* **📧 General Inquiries:** `input [at] arpa.corp`
+* **📧 General Inquiries:** `input [at] arpacorp.net`
 * **💼 LinkedIn:** [ARPA CORP.](https://www.linkedin.com/company/arpa-corporation)
