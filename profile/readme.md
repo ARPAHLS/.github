@@ -1,6 +1,6 @@
 # ARPA CORP. | ΑΡΠΑ ΕΛΛΗΝΙΚΑ ΛΟΓΙΚΑ ΣΥΣΤΗΜΑΤΑ
 
-**Forging the Man-Machine Protocol.**
+**Redefining reality by creating it**
 
 ---
 
