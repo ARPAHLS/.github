@@ -24,7 +24,7 @@ We don't just build software. We architect protocols for a future where the dist
 
 Our research and development efforts are concentrated across several key domains:
 
-| Icon | Discipline | Description |
+|  | Discipline | Description |
 | :--- | :--- | :--- |
 | 🧠 | **Artificial Intelligence & Machine Learning** | Development of novel logical systems, self-centered intelligence, and autonomous agents. |
 | 🔗 | **Blockchain & Distributed Ledger Technology** | Engineering decentralized systems for data integrity, security, and audit trails. |
