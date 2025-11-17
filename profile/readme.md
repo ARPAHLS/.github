@@ -41,9 +41,9 @@ Our research and development efforts are concentrated across several key domains
 
 | Project | Description |
 | :--- | :--- |
+| **[arpa.chat](https://arpa.chat)** | Building real, dynamically evolving relationships. |
 | **[ΟΨΗ](https://github.com/arpahls/opsie/)** | OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction. |
 | **[H3](https://github.com/arpahls/Hermes3/)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics. |
-| **[arpa.chat](https://arpa.chat)** | Our public-facing platform for experimental AI agents. Currently in public beta. |
 
 
 ---
