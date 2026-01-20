@@ -1,6 +1,6 @@
 # ARPA CORP. | ΑΡΠΑ ΕΛΛΗΝΙΚΑ ΛΟΓΙΚΑ ΣΥΣΤΗΜΑΤΑ
 
-**Redefining reality by creating it**
+**DEFINE REALITY**
 
 ---
 
