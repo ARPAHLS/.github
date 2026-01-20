@@ -41,6 +41,7 @@ Our research and development efforts are concentrated across several key domains
 
 | Project | Description |
 | :--- | :--- |
+| **[Skillware](https://github.com/arpahls/skillware)** | An open-source framework and registry for modular, actionable Agent capabilities.
 | **[arpa.chat](https://arpa.chat)** | Building real, dynamically evolving relationships. |
 | **[ΟΨΗ](https://github.com/arpahls/opsie/)** | OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction. |
 | **[H3](https://github.com/arpahls/Hermes3/)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics. |
