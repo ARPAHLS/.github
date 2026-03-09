@@ -8,7 +8,7 @@
 
 ARPA CORP.'s Hellenic Logical Systems (HLS) Division is a research and development entity dedicated to engineering the next logical layer of human-machine interaction. We operate at the intersection of seemingly disparate fields, Artificial Intelligence, Blockchain, Bioinformatics, and Neurotechnology, to build systems that are more than just tools. Our work is a synthesis, aimed at creating symbiotic frameworks where organic intuition and synthetic logic operate in seamless concert.
 
-![Redefining reality by creating it](https://raw.githubusercontent.com/ARPAHLS/.github/main/83462eee-c45f-4e85-bb85-63f067e2b501_thumbnail.png)
+![Redefining reality by creating it]((https://raw.githubusercontent.com/arpahls/cfd/main/assets/arpalogo26.png)
 
 We don't just build software. We architect protocols for a future where the distinction between biological and artificial cognition blurs.
 
@@ -41,11 +41,11 @@ Our research and development efforts are concentrated across several key domains
 
 | Project | Description |
 | :--- | :--- |
-| **[Skillware](https://github.com/arpahls/skillware)** | An open-source framework and registry for modular, actionable Agent capabilities.
-| **[arpa.chat](https://arpa.chat)** | Building real, dynamically evolving relationships. |
+| **[Skillware](https://github.com/arpahls/skillware)** | An open-source framework and registry for modular, actionable Agent capabilities. |
+| **[Rooms](https://github.com/arpahls/rooms)** | A Secure, Local-First Multi-Agent Orchestration Framework. |
 | **[ΟΨΗ](https://github.com/arpahls/opsie/)** | OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction. |
 | **[H3](https://github.com/arpahls/Hermes3/)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics. |
-
+| **[arpa.chat](https://arpa.chat)** | Building real, dynamically evolving relationships. |
 
 ---
 
