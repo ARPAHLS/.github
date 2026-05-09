@@ -1,7 +1,7 @@
-# ARPA CORP. | ΑΡΠΑ ΕΛΛΗΝΙΚΑ ΛΟΓΙΚΑ ΣΥΣΤΗΜΑΤΑ
+# ARPA HELLENIC LOGICAL SYSTEMS | ΑΡΠΑ ΕΛΛΗΝΙΚΑ ΛΟΓΙΚΑ ΣΥΣΤΗΜΑΤΑ
 
 **DEFINE REALITY**
-
+[Parsable Repository Directory](./directory.md)
 ---
 
 ### [<ins>About Us</ins>](https://arpacorp.net)
