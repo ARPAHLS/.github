@@ -2,7 +2,7 @@
 
 **DEFINE REALITY**
 
-[Parsable Repository Directory](https://github.com/ARPAHLS/.github/blob/main/directory.md)
+* **[Selected Directory](https://github.com/ARPAHLS/.github/blob/main/directory.md)**
 ---
 
 ### [<ins>About Us</ins>](https://arpacorp.net)
