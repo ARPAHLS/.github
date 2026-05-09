@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ARPAHLS/.github/main/Group%202058%20(1).png" width="50" alt="ARPA CORP Logo">
+  <img src="https://github.com/ARPAHLS/.github/blob/main/Group%202058%20(1).png?raw=true" height="50" alt="ARPA CORP Logo">
   
   # ARPA Public Directory
   
-  *A centralized index of open-source frameworks, logical systems, and public infrastructure maintained by ARPA.*
+  *A centralized index of open-source frameworks, logical systems, and public infrastructure maintained by ARPA Hellenic Logical Systems.*
 </div>
 
 ---
@@ -12,43 +12,44 @@
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[skillware](https://github.com/ARPAHLS/skillware)** | Packaged, installable AI microservices, functions, and modular intelligence for custom agent deployment. | `ai`, `microservices`, `agents` |
-| **[rooms](https://github.com/ARPAHLS/rooms)** | Multi-agent collaboration environments and spatial state logic for continuous LLM operations. | `llm`, `environments`, `multi-agent` |
-| **[micro-f1-mask](https://github.com/ARPAHLS/micro-f1-mask)** | Machine learning masking utilities and classification metric evaluation tools. | `ml`, `metrics`, `data-science` |
-| **[OPSIE](https://github.com/ARPAHLS/OPSIE)** | Internal operations AI assistant architecture and system automation framework. | `automation`, `ops`, `ai-assistant` |
-| **[Hermes3](https://github.com/ARPAHLS/Hermes3)** | Specialized logical inference model deployment and tuning framework. | `llm`, `inference`, `model` |
+| **[skillware](https://github.com/ARPAHLS/skillware)** | A Python framework for modular, self-contained skill management for machines. | `ai-agents`, `llm-tools`, `agentic-ai`, `skillware` |
+| **[rooms](https://github.com/ARPAHLS/rooms)** | A secure, local-first Python framework for orchestrating complex multi-agent think tanks with dynamic expertise-weighted routing. | `simulation`, `orchestration`, `multi-agent`, `llm` |
+| **[micro-f1-mask](https://github.com/ARPAHLS/micro-f1-mask)** | Zero-Latency PII Scrubbing Middleware Agent for Enterprise Cloud Compliance. | `privacy`, `compliance`, `data-protection`, `pii-masking` |
+| **[OPSIE](https://github.com/ARPAHLS/OPSIE)** | An advanced Self-Centered Intelligence (SCI) prototype representing a new paradigm in AI-human interaction. | `ai`, `agents`, `autonomous-agents`, `rag`, `mcp` |
+| **[Hermes3](https://github.com/ARPAHLS/Hermes3)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions. | `agent`, `crypto`, `blockchain`, `web3`, `dlt` |
 
 ### Security
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[gatekeeper](https://github.com/ARPAHLS/gatekeeper)** | Strict access control protocols, authentication logic, and authorization routing. | `security`, `auth`, `access-control` |
-| **[web3-asp](https://github.com/ARPAHLS/web3-asp)** | Application security protocol and verification tooling for Web3 and distributed ledger systems. | `web3`, `dlt`, `smart-contracts` |
+| **[gatekeeper](https://github.com/ARPAHLS/gatekeeper)** | Mission-critical access gatekeeper using face verification and emotion-risk policy checks. | `biometrics`, `access-control`, `security`, `opencv` |
+| **[web3-asp](https://github.com/ARPAHLS/web3-asp)** | Chrome extension acting as a personal Web3 security analyst for blockchain ecosystem exploration. | `security`, `web3`, `blockchain-analysis` |
 
 ### Compliance
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[cfd](https://github.com/ARPAHLS/cfd)** | Compliance frameworks, automated audit trailing, and regulatory alignment tools. | `compliance`, `audit`, `kyc` |
+| **[cfd](https://github.com/ARPAHLS/cfd)** | An Enterprise-Grade Credit Card Fraud Detection System. | `security`, `fraud-detection`, `payments`, `fintech` |
 
 ### Storage
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[vic_aisaq_demo](https://github.com/ARPAHLS/vic_aisaq_demo)** | Secure data handling and architectural storage capability demonstration. | `storage`, `demo`, `architecture` |
-| **[lc0_vic](https://github.com/ARPAHLS/lc0_vic)** | Localized logical containers and storage infrastructure for agentic operations. | `infrastructure`, `storage` |
+| **[vic_aisaq_demo](https://github.com/ARPAHLS/vic_aisaq_demo)** | VIC-style tiered retrieval demo with native KIOXIA AiSAQ for low-DRAM, storage-aware semantic search. | `semantic-search`, `edge-ai`, `computational-storage`, `rag` |
+| **[lc0_vic](https://github.com/ARPAHLS/lc0_vic)** | Tiered filesystem retrieval (L0/L1/L2) with vic CLI, embeddings, and optional skillware bridge. | `retrieval`, `filesystem`, `vector-search`, `local-first` |
 
 ### UI/UX
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[interactiveanimations](https://github.com/ARPAHLS/interactiveanimations)** | Dynamic frontend components and fluid UX elements designed for seamless human-machine interfaces. | `ui/ux`, `frontend`, `animation` |
+| **[interactiveanimations](https://github.com/ARPAHLS/interactiveanimations)** | A collection of high-fidelity, physics-based interactive animations. | `visualization`, `simulations`, `ui-components`, `physics-3d` |
 
 ---
 
-### Private & Enterprise Repositories
+### Private & Enterprise Infrastructure
 
-ARPA maintains a vast architecture of proprietary infrastructure, including our native platforms (**arpa.chat**, **Synapuls**) and bespoke logical systems engineered for enterprise clients.
+ARPA maintains several proprietary stacks and mission-critical environments that are kept private to ensure security, data integrity, and client confidentiality.
 
-* **Research & Open Source Contributions:** While core product and advanced R&D repositories are kept private, repository access may be granted to academic researchers and dedicated open-source contributors upon request, subject to specific licensing agreements.
-* **Enterprise Security:** All repositories, compliance ledgers, and operational architectures belonging to our B2B and B2G partners are strictly confidential. These environments are secured, isolated, and non-sharable with any external or unauthorized parties under any circumstances.
+* **Native Platforms:** Core products such as **arpa.chat** and the **Synapuls** bio-suite are private. However, access may be granted to academic researchers and verified open-source contributors upon request under specific licensing agreements.
+* **B2B/B2G Client Repositories:** All repositories involving sovereign enterprise logic, automated KYC/KYB workflows (iDataRoom), and government-level compliance tools (KRONOS) are strictly non-sharable with unauthorized parties.
+* **Access Requests:** If you are a researcher or developer looking to contribute to our private stacks, please reach out via our [Community](https://github.com/ARPAHLS/Community) discussions.
