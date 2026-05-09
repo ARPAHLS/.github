@@ -51,5 +51,5 @@
 ARPA maintains several proprietary stacks and mission-critical environments that are kept private to ensure security, data integrity, and client confidentiality.
 
 * **Native Platforms:** Core products such as **arpa.chat** and the **Synapuls** bio-suite are private. However, access may be granted to academic researchers and verified open-source contributors upon request under specific licensing agreements.
-* **B2B/B2G Client Repositories:** All repositories involving sovereign enterprise logic, automated KYC/KYB workflows (iDataRoom), and government-level compliance tools (KRONOS) are strictly non-sharable with unauthorized parties.
+* **B2B/B2G Client Repositories:** All repositories involving sovereign enterprise logic, and government-level compliance tools are strictly non-sharable with unauthorized parties.
 * **Access Requests:** If you are a researcher or developer looking to contribute to our private stacks, please reach out via our [Community](https://github.com/ARPAHLS/Community) discussions.
