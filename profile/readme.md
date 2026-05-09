@@ -1,7 +1,8 @@
 # ARPA HELLENIC LOGICAL SYSTEMS | ΑΡΠΑ ΕΛΛΗΝΙΚΑ ΛΟΓΙΚΑ ΣΥΣΤΗΜΑΤΑ
 
 **DEFINE REALITY**
-[Parsable Repository Directory](./directory.md)
+
+[Parsable Repository Directory](https://github.com/ARPAHLS/.github/blob/main/directory.md)
 ---
 
 ### [<ins>About Us</ins>](https://arpacorp.net)
