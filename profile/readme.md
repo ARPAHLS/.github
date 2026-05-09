@@ -18,37 +18,10 @@ We don't just build software. We architect protocols for a future where the dist
 
 ---
 
-### Core Disciplines
-
-Our research and development efforts are concentrated across several key domains:
-
-|  | Discipline | Description |
-| :--- | :--- | :--- |
-| 🧠 | **Artificial Intelligence & Machine Learning** | Development of novel logical systems, self-centered intelligence, and autonomous agents. |
-| 🔗 | **Blockchain & Distributed Ledger Technology** | Engineering decentralized systems for data integrity, security, and audit trails. |
-| 🧬 | **Bioinformatics & Neurotechnology** | Exploring the fundamental data structures of biology and consciousness to inform our system architecture. |
-| 🛡️ | **Cybersecurity & Information Theory** | Implementing advanced security protocols, from malware classification to ensuring data provenance in high-stakes environments. |
-| ⚛️ | **Quantum Domains** | Research and application of quantum computing and quantum information science. |
-| 🕶️ | **Extended Reality (AR, VR, MR+)** | Researching the intersection of BCI/BMI and VR for immersive and interactive experiences without external load. |
-
-* Learn more at arpacorp.net
-
----
-
-### Key Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[Skillware](https://github.com/arpahls/skillware)** | An open-source framework and registry for modular, actionable Agent capabilities. |
-| **[Rooms](https://github.com/arpahls/rooms)** | A Secure, Local-First Multi-Agent Orchestration Framework. |
-| **[ΟΨΗ](https://github.com/arpahls/opsie/)** | OPSIIE (OPSIE) is an advanced Self-Centered Intelligence (SCI) prototype that represents a new paradigm in AI-human interaction. |
-| **[H3](https://github.com/arpahls/Hermes3/)** | Advanced Web3 AI Agent featuring dynamic parsing and multi-chain support for sophisticated blockchain interactions and real-time analytics. |
-| **[arpa.chat](https://arpa.chat)** | Building real, dynamically evolving relationships. |
-
----
-
 ### Connect with Us
 
-* **🌐 Official Website:** [arpacorp.net](https://arpacorp.net)
-* **📧 General Inquiries:** `input [at] arpacorp.net`
-* **💼 LinkedIn:** [ARPA CORP.](https://www.linkedin.com/company/arpa-corporation)
+* **Official Website:** [arpacorp.net](https://arpacorp.net)
+* **General Inquiries:** `input [at] arpacorp.net`
+* **LinkedIn:** [ARPA CORP.](https://www.linkedin.com/company/arpa-corporation)
+* **Skillware.Site:** [Skillware](https://skillware.site)
+* **Chat Interface:** [arpa.chat](https://arpa.chat)
