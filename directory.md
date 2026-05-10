@@ -22,6 +22,7 @@
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
+| **[legacy-protocol](https://github.com/ARPAHLS/legacy-protocol)** | Programmable on-chain handoffs for digital assets. Bind beneficiaries, policies, and verifiable triggers. | `vault`, `inheritance`, `ownership`, `last-wills` |
 | **[gatekeeper](https://github.com/ARPAHLS/gatekeeper)** | Mission-critical access gatekeeper using face verification and emotion-risk policy checks. | `biometrics`, `access-control`, `security`, `opencv` |
 | **[web3-asp](https://github.com/ARPAHLS/web3-asp)** | Chrome extension acting as a personal Web3 security analyst for blockchain ecosystem exploration. | `security`, `web3`, `blockchain-analysis` |
 
