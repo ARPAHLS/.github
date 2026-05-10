@@ -6,6 +6,13 @@
   *A centralized index of open-source frameworks, logical systems, and public infrastructure maintained by ARPA Hellenic Logical Systems.*
 </div>
 
+### New & Help Needed
+
+| Repository | Description | Tags |
+| :--- | :--- | :--- |
+| **[skillware](https://github.com/ARPAHLS/skillware)** | A Python framework for modular, self-contained skill management for machines. | `ai-agents`, `llm-tools`, `agentic-ai`, `skillware` |
+| **[legacy-protocol](https://github.com/ARPAHLS/legacy-protocol)** | Programmable on-chain handoffs for digital assets. Bind beneficiaries, policies, and verifiable triggers. | `vault`, `inheritance`, `ownership`, `web3` |
+
 ---
 
 ### AI Models, Tools & Frameworks
