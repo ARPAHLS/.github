@@ -14,7 +14,7 @@ We operate at the intersection of seemingly disparate fields, AI/ML, DLT, Bioinf
 
 Our work is a synthesis, aimed at creating symbiotic frameworks where organic intuition and synthetic logic operate in seamless concert. We specialize in bespoke enterprise-grade agentic clusters, capable of operating with beyond-human efficiency in end-to-end real-life scenarios.
 
-We don't just build software. We architect protocols for a future where the distinction between biological and artificial cognition blurs.
+We don't just build software, but architect protocols for a future where the distinction between biological and artificial cognition blurs.
 
 > ### **Mission**
 > To conceive, design and deploy robust, secure, and intuitive autonomous logical systems that bridge the cognitive gap between humans and machines, enabling co-evolutionary intelligence.
